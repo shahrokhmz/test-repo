@@ -1,2 +1,2 @@
-# test-repo-1
-this is a test 01
+# test-repo
+this is a test
